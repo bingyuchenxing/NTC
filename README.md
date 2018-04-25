@@ -1,8 +1,8 @@
 # NTC
 makecode 的 NTC温度传感器 microbit 软件包
 
-作者: 朱林 
-日期: 2018/4  
+* 作者: 朱林 
+* 日期: 2018/4  
 
 ![](https://raw.githubusercontent.com/microbit-makecode-packages/NTC_cn/master/icon.png)
 
@@ -32,9 +32,8 @@ adc 是模拟输入转换后的数值，返回值是按照摄氏度为单位的�
 
 ## 授权方式
 
-MIT
-
-湖南创乐博智能科技有限公司
+* MIT
+* 湖南创乐博智能科技有限公司
 
 ## 支持硬件
 
