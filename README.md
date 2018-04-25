@@ -4,7 +4,7 @@ makecode 的 NTC温度传感器 microbit 软件包
 * 作者: 朱林 
 * 日期: 2018/4  
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/NTC_cn/master/icon.png)
+![image](https://github.com/zhuning239/NTC/blob/master/icon.png)
 
 
 ## 使用方法
@@ -15,7 +15,7 @@ https://github.com/zhuning239/NTC/
 
 搜索后就可以添加并使用本软件包了。  
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/NTC_cn/master/sketch.jpg)
+![image](https://github.com/zhuning239/NTC/blob/master/sketch.jpg)
 
 
 ## API
@@ -28,7 +28,7 @@ adc 是模拟输入转换后的数值，返回值是按照摄氏度为单位的�
 
 ## 演示
 
-![](https://raw.githubusercontent.com/microbit-makecode-packages/NTC_cn/master/demo.jpg)
+![image](https://github.com/zhuning239/NTC/blob/master/demo.jpg)
 
 ## 授权方式
 
